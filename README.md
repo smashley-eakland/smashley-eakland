@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Ashley!
 
-👩‍💻 Data Science Student
+👩‍💻 Data Scientist
 
 👨‍👩‍👧‍👦 Mother of two small humans and a gang of pets 🐈 🐕 🐕 🐕
 
